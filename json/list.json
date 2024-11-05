@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "manufacturer": "Microsoft",
+        "model": "Surface Laptop Go 2"
+    },
+    {
+        "id": 2,
+        "manufacturer": "HP",
+        "model": "ProBook 450 G7"
+    },
+    {
+        "id": 3,
+        "manufacturer": "Lenovo",
+        "model": "ThinkPad X1 Carbon"
+    },
+    {
+        "id": 4,
+        "manufacturer": "Apple",
+        "model": "MacBook Air"
+    },
+    {
+        "id": 5,
+        "manufacturer": "Acer",
+        "model": "Aspire 5"
+    }
+]
