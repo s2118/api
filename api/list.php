@@ -1,7 +1,7 @@
 <?php
 class lists
 {
-    const jsonSrc = __DIR__.'/json/list.json';
+    const jsonSrc = __DIR__.'/../json/list.json';
 
     // JSON データを取得するメソッド
     function getJsonData(){
